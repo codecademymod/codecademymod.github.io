@@ -18,7 +18,7 @@ function mod(coverPhoto, profilePhoto, name, group, loc, date, handle, descripti
 							'<p class="text-center">' +'<i class="far fa-calendar-alt">' +'</i>' + date + '</p>' +
 						'</div>' +
 						'<div class="footer">' +
-							'<i class="fas fa-share"></i>' + 'Auto Rotation' + 
+							'<i class="fas fa-share"></i>' + 'Read More' + 
 						'</div>' +
 					'</div>' +
 				'</div>' + '<!-- end front panel -->' +
