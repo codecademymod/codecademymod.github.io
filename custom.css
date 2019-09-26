@@ -42,3 +42,11 @@ body {
 .social-links .fa-slack {
   color: orange;
 }
+
+.card .back .header {
+  height: 50px;
+}
+
+.card .back .footer {
+  margin-top: 70px;
+}
