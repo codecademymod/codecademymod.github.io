@@ -14,3 +14,27 @@ body {
 .text-center i, .footer i{
   padding-right: 5px;
 }
+
+.social-links i {
+  padding: 0 5px;
+}
+
+.social-links .fa-discourse {
+  color: #000;
+}
+
+.social-links .fa-facebook {
+  color: #3B5998;
+}
+
+.social-links .fa-code {
+  color: #5AC5C2;
+}
+
+.social-links .fa-discord {
+  color: #7289DA;
+}
+
+.social-links .fa-slack {
+  color: orange;
+}
