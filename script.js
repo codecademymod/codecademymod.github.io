@@ -1,4 +1,4 @@
-function mod(coverPhoto, profilePhoto, name, group, loc, date, handle, description, forums, facebook, mobilize, discord, slack) {
+function mod(coverPhoto, profilePhoto, name, group, loc, time, date, handle, description, forums, facebook, mobilize, discord, slack) {
 	newDiv = '' +
 	'<div class="col-md-3 col-sm-4">' +
 		 '<div class="card-container">' +
@@ -15,6 +15,7 @@ function mod(coverPhoto, profilePhoto, name, group, loc, date, handle, descripti
 							'<h3 class="name"> '+ name+ '</h3>' +
 							'<p class="profession">' +group+ '</p>' +
 							'<p class="text-center">' +'<i class="fas fa-map-marker-alt">' +'</i>' + loc + '</p>' +
+							'<p class="text-center">' +'<i class="far fa-clock"> </i>' + ' <span class="clock" data-timezone='+ time + '></span>' + '</p>' +
 							'<p class="text-center">' +'<i class="far fa-calendar-alt">' +'</i>' + date + '</p>' +
 						'</div>' +
 						'<div class="footer">' +
