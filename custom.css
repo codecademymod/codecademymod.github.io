@@ -50,3 +50,8 @@ body {
 .card .back .footer {
   margin-top: 70px;
 }
+
+.card .back .overflow {
+  overflow: auto;
+  height: calc(100% + 50px);
+}
