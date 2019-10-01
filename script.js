@@ -30,7 +30,7 @@ function mod(coverPhoto, profilePhoto, name, group, loc, time, date, handle, des
 					'<div class="content">' +
 						'<div class="main">' +
 							'<h4 class="text-center"> <a href="https://www.codecademy.com/profiles/'+handle+'" >@' +handle+ '</a></h4>' +
-							'<p class="text-center">' +description+ '</p>' +
+							'<p class="text-center overflow">' +description+ '</p>' +
 
 						'</div>' +
 					'</div>' +
